@@ -19,7 +19,7 @@ Comprehensive documentation covering:
 ‎Step-by-step instructions for manual updates using Power BI Desktop‎
 ‎This ensures the report can be easily maintained and understood by other analysts or stakeholders.
 
-#### 7. **‎Suggestions for Automation (Optional) **
+####  **‎Suggestions for Automation (Optional) **
 ‎Recommendations for optional automation, including:‎
 ‎Publishing the report to Power BI Service‎
 ‎Setting up scheduled refresh using Power BI Service‎
