@@ -1,6 +1,6 @@
 # International-Educational-Group
 Power BI dashboard analyzing revenue, student enrollment, telc exams, and YoY growth across International School Locations.
-‎# Project Deliverables
+‎##Project Deliverables
 ‎This project was completed and delivered with the following components:
 ‎
 ‎Fully Functional Power BI (.pbix) File with Source Mapping
